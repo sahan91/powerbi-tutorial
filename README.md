@@ -20,7 +20,7 @@ Install Power BI Desktop from Windows Store
 
 ## Credits
 
-[parulnith](https://github.com/parulnith) for the dataset
+Thanks to [parulnith](https://github.com/parulnith) for the dataset
 
 ## Show your support
 
