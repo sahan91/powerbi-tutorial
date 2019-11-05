@@ -18,6 +18,10 @@ Install Power BI Desktop from Windows Store
 * Twitter: [@sahan91](https://twitter.com/sahan91)
 * Github: [@sahan91](https://github.com/sahan91)
 
+## Credits
+
+[parulnith](https://github.com/parulnith) for the dataset
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
